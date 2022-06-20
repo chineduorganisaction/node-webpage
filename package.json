@@ -1,0 +1,16 @@
+{
+  "name": "webpage",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.6",
+    "nodemon": "^2.0.16"
+  }
+}
