@@ -12,6 +12,6 @@ fetch(url,
     return res.text();
 })
 .then(data => {
-    console.log(data);
+    //console.log(data);
     testRes.innerText = data;
 })
